@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>8</LangVersion>
+        <Authors>Emilien</Authors>
+        <Description>Simple class to generate random value</Description>
+        <AssemblyVersion>1</AssemblyVersion>
+        <FileVersion>1.0.0</FileVersion>
+        <Version>1.0.0</Version>
+        <PackageProjectUrl>https://github.com/Emilien-M/SimpleGenerator</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Emilien-M/SimpleGenerator</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseUrl>https://github.com/Emilien-M/SimpleGenerator/blob/master/LICENSE</PackageLicenseUrl>
+    </PropertyGroup>
+
+</Project>
